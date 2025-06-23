@@ -1,5 +1,5 @@
 import React from "react";
-import manageOne from "./Images/ManageImageone.svg";
+import manageOne from "./Images/ManageImageOne.svg";
 import manageSecond from "./Images/manageSecond.svg";
 import manageThird from "./Images/Managethird.svg";
 
