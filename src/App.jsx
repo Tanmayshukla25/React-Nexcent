@@ -1,6 +1,6 @@
 import "./App.css";
 import Header from "./Header";
-import StatsSection from "./helping";
+
 import IntroComponent from "./IntroComponent";
 import ManageComponent from "./manageComponent";
 import OurClients from "./OurClients";
@@ -11,6 +11,7 @@ import Customer from "./Customer";
 import BlogSection from "./BlogSection";
 import Demo from "./Demo";
 import Footer from "./Footer";
+import Busniess from "./Busniess";
 
 function App() {
   return (
@@ -28,7 +29,7 @@ function App() {
         btn="Learn More"
       />
 
-      <StatsSection />
+   <Busniess/>
       <Pixelgrade
         img={FooterImg}
         heading="How to design your site footer like we did"

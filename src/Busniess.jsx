@@ -4,7 +4,7 @@ import clubsIcon from "./Images/clubs.png";
 import bookingsIcon from "./Images/bookings.svg";
 import paymentsIcon from "./Images/payments.svg";
 
-const StatsSection = () => {
+const Busniess = () => {
   return (
     <section className="bg-gray-100 py-20 px-6">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-center gap-10">
@@ -65,4 +65,4 @@ const StatsSection = () => {
   );
 };
 
-export default StatsSection;
+export default Busniess;
