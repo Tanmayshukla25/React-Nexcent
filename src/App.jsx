@@ -6,7 +6,7 @@ import ManageComponent from "./manageComponent";
 import OurClients from "./OurClients";
 import Pixelgrade from "./Pixelgrade";
 import pixelimg from "./Images/Pixelimg.svg";
-import FooterImg from "./Images/Propsimg.svg";
+import FooterImg from "./Images/PropsImg.svg";
 import Customer from "./Customer";
 import BlogSection from "./BlogSection";
 import Demo from "./Demo";
